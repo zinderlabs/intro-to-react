@@ -8,8 +8,11 @@ The exercise code can be found on [CodeSandbox](https://codesandbox.io/s/react-e
 
 _Goal: Learn how to think in component based user interfaces and how React components are rendered._
 
-- [ ] ♻️ Cleanup the application by splitting App.js into reusable, small components
-- [ ] ♻️ Refactor app.css to smaller CSS files, co-located with the relevant component. Tip: Use [styled-components](https://www.styled-components.com/) for better isolation of your components.
+- [ ] ♻️ Cleanup the application by splitting App.js into (reusable) smaller components
+- [ ] ♻️ Refactor app.css into smaller CSS files, co-located with the relevant component. 
+- [ ] 🐛 Fix all console warnings & errors
+
+> Tip: Use a CSS-in-JS library like [styled-components](https://www.styled-components.com/) or [emotion](https://emotion.sh/docs/introduction) for easier code colocation of a single component. It also enables component-oriented theming patterns.
 
 ### Step 2 - Make it work
 
