@@ -1,6 +1,6 @@
 # React Exercise
 
-The exercise code can be found on [CodeSandbox](https://codesandbox.io/s/react-exercise-start-pnkue).
+The exercise code can be found on [CodeSandbox](https://codesandbox.io/s/into-to-react-2022-movie-list-step-1-ocfn03).
 
 ## Todo
 
