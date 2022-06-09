@@ -14,7 +14,7 @@ _Goal: Learn how to think in component based user interfaces and how React compo
 
 > Tip: Use a CSS-in-JS library like [styled-components](https://www.styled-components.com/) or [emotion](https://emotion.sh/docs/introduction) for easier code colocation of a single component. It also enables component-oriented theming patterns.
 
-### Step 2 - Make it work
+### Step 2 - Make it work - [CodeSandbox](https://codesandbox.io/s/react-exercise-2022-movie-list-step-2-kj3f64)
 
 _Goal: Learn how we can use React Hooks and EcmaScript to make applications do more than just display data._
 
